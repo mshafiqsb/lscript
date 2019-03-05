@@ -40,7 +40,7 @@ View your MAC faster
 	You can install whichever tool(s) you want from within lscript! 
 	Fluxion                         by Deltaxflux
 	WifiTe                          by derv82
-	Wifiphisher                     by Dan McInerney
+	Wifiphisher                     by George Chatzisofroniou
 	Zatacker                        by LawrenceThePentester
 	Morpheus                        by Pedro ubuntu  [ r00t-3xp10it ]
 	Osrframework                    by i3visio
@@ -164,6 +164,12 @@ rmdir -r /root/lscript
 Run the script
 Type "update"
 ```
+
+### Shoutouts
+
+##### [OpenSource Projects](https://www.facebook.com/opensourceprojects/)
+
+OpenSource Projects is a Facebook community page who's goal is to give developers, new and old, a easy and simple place to share their opensource contributions and projects. I personally think this is an awesome idea, I know how hard it is to get your code noticed by people and support these guys 100%. Go ahead and give them a like [here](https://www.facebook.com/opensourceprojects/). They will share any opensource project you send them for free. Thank you OpenSource Projects for giving developers a place to share work with one another!
 
 ### Donate
 If you like my work, consider buying me a coffee :)
